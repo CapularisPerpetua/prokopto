@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on prokopto.dev - A Journey</title>
+    <link>https://prokopto.dev/blog/</link>
+    <description>Recent content in Blogs on prokopto.dev - A Journey</description>
+    <image>
+      <url>https://prokopto.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://prokopto.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Oct 2022 19:39:14 +0000</lastBuildDate><atom:link href="https://prokopto.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Building</title>
+      <link>https://prokopto.dev/blog/project-building/</link>
+      <pubDate>Mon, 03 Oct 2022 19:39:14 +0000</pubDate>
+      
+      <guid>https://prokopto.dev/blog/project-building/</guid>
+      <description>Test</description>
+    </item>
+    
+  </channel>
+</rss>
